@@ -1,1 +1,1 @@
-echo "welcome to the demo file"
+echo "welcome to the demo project"
